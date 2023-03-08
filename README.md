@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>
-📫 How to reach me aliofficial3594@gmail.com<br>🌱 I’m currently learning<br>⚡ Fun factI
+📫 How to reach me ajithmjames@gmail.com<br>🌱 I’m currently learning<br>⚡ Fun factI
 
 
 ## 🌐 Socials:
