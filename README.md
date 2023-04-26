@@ -5,12 +5,13 @@
    
 </div>
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Ajith M James |  Software Developer | India <br\> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Ajith M James |  Web Designer  &  Developer | India <br\> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
 
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>
-📫 You can reach me at ajithmjames@gmail.com<br>🌱 I’m currently learning<br>⚡ 
+🔭 I’m currently working <br>👯 I’m looking to collaborate on<br>
+📫 You can reach me at ajithmjames@gmail.com<br>🌐 My Website 
+   <br>💻 I’m currently learning<br>⚡ 
 
 
 ## 🌐 Socials:
